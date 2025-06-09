@@ -1474,5 +1474,6 @@ Event_ID,Event Summary
 26,FileDeleteDetected (File Delete logged)
 27,FileBlockExecutable
 28,FileBlockShredding
+4103,PowerShell (Executing Pipeline)
 29,FileExecutableDetected
 255,Error
