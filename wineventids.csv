@@ -1475,5 +1475,6 @@ Event_ID,Event Summary
 27,FileBlockExecutable
 28,FileBlockShredding
 4103,PowerShell (Executing Pipeline)
+4104,PowerShell (Execute a Remote Command)
 29,FileExecutableDetected
 255,Error
